@@ -1,6 +1,13 @@
 # AngularApiProducts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+## Branches
+
+### About
+
+- uses the [fake store](https://fakestoreapi.com/products) api
+- shows a basic API call in the app component
+
+  This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
 
 ## Development server
 
